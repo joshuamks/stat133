@@ -1,0 +1,5 @@
+name = "Joshua Min"
+SID = "24447131"
+email = "joshuamks@berkeley.edu"
+github_name = "joshuamks"
+status = "enrolled"
