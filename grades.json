@@ -19,5 +19,6 @@
     "login": "joshuamks", 
     "name": "Joshua Min", 
     "status": "enrolled", 
-    "url": "git@github.com:joshuamks/stat133.git"
+    "url": "git@github.com:joshuamks/stat133.git", 
+    "section": "lab3"
 }
