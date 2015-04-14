@@ -14,6 +14,19 @@
                     "earned": 20
                 }
             }
+        }, 
+        "hw4": {
+            "note": "", 
+            "hash": "7080501a96839bf512fb0f1f8f64b04b53b9815e", 
+            "earned": 0, 
+            "possible": 20, 
+            "penalty": 0, 
+            "parts": {
+                "hw4": {
+                    "possible": 20, 
+                    "earned": 0
+                }
+            }
         }
     }, 
     "login": "joshuamks", 
